@@ -1,5 +1,5 @@
 # Set up the Streamlit app layout
-st.title("🤖 ChatGPT with Memory 🧠")
+st.title(" ChatGPT with Memory")
 #st.subheader(" Powered by 🦜 LangChain + OpenAI + Streamlit")
 
 hide_default_format = """
